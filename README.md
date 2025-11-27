@@ -76,7 +76,8 @@ These insights highlight purchase behavior, product demand, delivery performance
 
 ## **How to Use**
 
-1. Import all **9 CSV files** into a SQL database (e.g., MySQL).
+1. Import all **9 CSV files** into a SQL database (e.g.MySQL).
+- Download: **[Olist Dataset](https://drive.google.com/drive/folders/1xSGPZ0LX4a80hLVp_el5s1invOJJ8OqR?usp=drive_link)**
 2. Run **olist_sql_script.sql** to clean and prepare the tables.
 3. Run **OLIST_KPI_SQL_QUERIES.sql** to generate KPIs and insights.
 4. Review query outputs to understand customer behavior, product trends, delivery performance, and seller ranking.
